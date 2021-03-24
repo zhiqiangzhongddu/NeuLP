@@ -28,7 +28,7 @@ A demo file is given to show the execution of model and other tools.
 Please cite our paper if you make use of this code in your own work:
 
 ```bibtex
-@article{ZZP20,
+@article{ZhongZP2020,
   title={NeuLP: An End-to-end Deep-learning Model for Link Prediction},
   author={Zhiqiang Zhong, Yang Zhang, Jun Pang},
   booktitle={Web Information Systems Engineering - {WISE} 2020 - 21st International Conference},
