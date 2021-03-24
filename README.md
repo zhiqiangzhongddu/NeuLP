@@ -18,7 +18,7 @@ The code has been tested running under Python 3.7.1. with the following packages
 - torch_geometric == 1.4.2
 
 ### Data requirement
-All eight datasets we used in the paper are all public datasets which can be downloaded from the internet.
+Demo datasets are available in the folder-input.
 
 ### Code execution
 A demo file is given to show the execution of model and other tools.
